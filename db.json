@@ -1,10 +1,12 @@
 {
-  "authStuff": {
-    "myAccessToken": "58be0245-c85b-4a35-9c92-25e4cccba9b0",
-    "myRefreshToken": "ebfa754d-0af6-4a0d-aefa-93f1c60200ad",
-    "myExpiration": 3600
-  },
-  "foo": "bar",
-  "aNumber": 10239451,
-  "anArray": ["apple", "banana", "carrot"]
+  "oauthSample": {
+    "authStuff": {
+      "myAccessToken": "58be0245-c85b-4a35-9c92-25e4cccba9b0",
+      "myRefreshToken": "ebfa754d-0af6-4a0d-aefa-93f1c60200ad",
+      "myExpiration": 3600
+    },
+    "foo": "bar",
+    "aNumber": 10239451,
+    "anArray": ["apple", "banana", "carrot"]
+  }
 }
